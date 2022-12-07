@@ -1,4 +1,7 @@
-# Network-Sequricy project
+# wireshark를 사용해서 수집한 packet을 csv로 변환한 다음 Anomaly Detection을 진행한다. 
 
-# Subject: wireshark를 통해서 packet을 받아 Annomaly detection을 수행 
-## Tools : python , pytorch, wireshark
+## EDA
+
+## Preprocessing
+
+## Model selection
