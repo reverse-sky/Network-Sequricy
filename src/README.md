@@ -9,3 +9,5 @@
 >>2. Automl ensemble model
 
 ### - <a href="./Network.ipynb">Network.ipynb</a> Anomaly Detection을 실행할 Jupyter file
+
+### - <a href="./Anomaly Detection using Auto ML and DNN.pdf">Anomaly Detection using Auto ML and DNN.pdf</a> preprocessing과정 및 dataset 설명 pdf 
