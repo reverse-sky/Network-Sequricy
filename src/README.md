@@ -1,7 +1,11 @@
-# wireshark를 사용해서 수집한 packet을 csv로 변환한 다음 Anomaly Detection을 진행한다. 
+# 폴더 설명
 
-## EDA
+### - <a href="./Network_attack">Network_attack</a> Dataset 폴더 , 총 5개의 시나리오 존재
+>fin_scan,tcp_half,tcp_syn,udp_flood,udp_scan
 
-## Preprocessing
+### - <a href="./model">model</a> 저장된 딥러닝 모델 폴더
+>2가지의 모델이 존재
+>>1. fully connected model
+>>2. Automl ensemble model
 
-## Model selection
+### - <a href="./Network.ipynb">Network.ipynb</a> Anomaly Detection을 실행할 Jupyter file
